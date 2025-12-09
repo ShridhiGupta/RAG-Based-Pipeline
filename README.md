@@ -1,1 +1,3 @@
 # RAG-Based-Pipeline
+
+Python,Implemented a RAG-based Q&A pipeline using Python, combining documentchunking, embeddings generation, and FAISS vector search to enable semantic retrieval. Built a complete queryflow—from preprocessing to LLM-generated answers—and exposed the pipeline through a clean REST API for easyintegration. Demonstrated strong understanding of retrieval systems, LLM workflows, and backend pipelinedesign.
